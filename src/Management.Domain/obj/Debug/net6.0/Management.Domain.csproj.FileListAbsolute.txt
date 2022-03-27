@@ -1,0 +1,12 @@
+D:\START UP PROJECT\ESH-DROP\Management\src\Management.Domain\bin\Debug\net6.0\Management.Domain.deps.json
+D:\START UP PROJECT\ESH-DROP\Management\src\Management.Domain\bin\Debug\net6.0\Management.Domain.dll
+D:\START UP PROJECT\ESH-DROP\Management\src\Management.Domain\bin\Debug\net6.0\Management.Domain.pdb
+D:\START UP PROJECT\ESH-DROP\Management\src\Management.Domain\obj\Debug\net6.0\Management.Domain.csproj.AssemblyReference.cache
+D:\START UP PROJECT\ESH-DROP\Management\src\Management.Domain\obj\Debug\net6.0\Management.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\START UP PROJECT\ESH-DROP\Management\src\Management.Domain\obj\Debug\net6.0\Management.Domain.AssemblyInfoInputs.cache
+D:\START UP PROJECT\ESH-DROP\Management\src\Management.Domain\obj\Debug\net6.0\Management.Domain.AssemblyInfo.cs
+D:\START UP PROJECT\ESH-DROP\Management\src\Management.Domain\obj\Debug\net6.0\Management.Domain.csproj.CoreCompileInputs.cache
+D:\START UP PROJECT\ESH-DROP\Management\src\Management.Domain\obj\Debug\net6.0\Management.Domain.dll
+D:\START UP PROJECT\ESH-DROP\Management\src\Management.Domain\obj\Debug\net6.0\refint\Management.Domain.dll
+D:\START UP PROJECT\ESH-DROP\Management\src\Management.Domain\obj\Debug\net6.0\Management.Domain.pdb
+D:\START UP PROJECT\ESH-DROP\Management\src\Management.Domain\obj\Debug\net6.0\ref\Management.Domain.dll
