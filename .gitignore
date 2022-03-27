@@ -16,7 +16,8 @@
 
 # Mono auto generated files
 mono_crash.*
-
+bin/
+obj/
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
@@ -488,3 +489,5 @@ fabric.properties
 .history
 .ionide
 
+/src/Management.Api/bin/
+/src/Management.Api/bin/
