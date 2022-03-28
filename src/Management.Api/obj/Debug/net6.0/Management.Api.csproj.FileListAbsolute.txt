@@ -46,3 +46,8 @@ D:\START UP PROJECT\ESH-DROP\Management\src\Management.Api\bin\Debug\net6.0\Micr
 D:\START UP PROJECT\ESH-DROP\Management\src\Management.Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
 D:\START UP PROJECT\ESH-DROP\Management\src\Management.Api\bin\Debug\net6.0\Npgsql.dll
 D:\START UP PROJECT\ESH-DROP\Management\src\Management.Api\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\START UP PROJECT\ESH-DROP\Management\src\Management.Api\bin\Debug\net6.0\AutoMapper.dll
+D:\START UP PROJECT\ESH-DROP\Management\src\Management.Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\START UP PROJECT\ESH-DROP\Management\src\Management.Api\bin\Debug\net6.0\MediatR.dll
+D:\START UP PROJECT\ESH-DROP\Management\src\Management.Api\bin\Debug\net6.0\MediatR.Contracts.dll
+D:\START UP PROJECT\ESH-DROP\Management\src\Management.Api\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll

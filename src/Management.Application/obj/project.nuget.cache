@@ -1,12 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "QDl/jBaXmw+eG0bDG3PtXsF338Zmjd8mS6F3iZn8hLScyjOzHAiqQTOYJvU3axbgXG3XctEu/F/rvXM9HJBcZQ==",
+  "dgSpecHash": "ydLlZoyhsMND24wjY3fKHE2eHVzLRSiqcSxMWrgRPTPa6wiFGDZP9GxVhdWHTEMDGbnXHsYv4qPxDQ/P+DW2zw==",
   "success": true,
   "projectFilePath": "D:\\START UP PROJECT\\ESH-DROP\\Management\\src\\Management.Application\\Management.Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Ezer\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\Ezer\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\Ezer\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\Ezer\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.3\\microsoft.aspnetcore.cryptography.internal.6.0.3.nupkg.sha512",
     "C:\\Users\\Ezer\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.3\\microsoft.aspnetcore.cryptography.keyderivation.6.0.3.nupkg.sha512",
     "C:\\Users\\Ezer\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\6.0.3\\microsoft.aspnetcore.identity.entityframeworkcore.6.0.3.nupkg.sha512",
+    "C:\\Users\\Ezer\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Ezer\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.3\\microsoft.entityframeworkcore.6.0.3.nupkg.sha512",
     "C:\\Users\\Ezer\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.3\\microsoft.entityframeworkcore.abstractions.6.0.3.nupkg.sha512",
     "C:\\Users\\Ezer\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.3\\microsoft.entityframeworkcore.analyzers.6.0.3.nupkg.sha512",
