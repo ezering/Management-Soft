@@ -13,3 +13,5 @@ D:\START UP PROJECT\ESH-DROP\Management\src\Management.Application\obj\Debug\net
 D:\START UP PROJECT\ESH-DROP\Management\src\Management.Application\obj\Debug\net6.0\refint\Management.Application.dll
 D:\START UP PROJECT\ESH-DROP\Management\src\Management.Application\obj\Debug\net6.0\Management.Application.pdb
 D:\START UP PROJECT\ESH-DROP\Management\src\Management.Application\obj\Debug\net6.0\ref\Management.Application.dll
+D:\START UP PROJECT\ESH-DROP\Management\src\Management.Application\bin\Debug\net6.0\Management.Infrastructure.dll
+D:\START UP PROJECT\ESH-DROP\Management\src\Management.Application\bin\Debug\net6.0\Management.Infrastructure.pdb

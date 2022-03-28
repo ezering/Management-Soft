@@ -1,7 +1,4 @@
-﻿using Management.Domain.Models;
-using Microsoft.AspNetCore.Mvc;
-
-namespace Management.Api.Controllers.V2;
+﻿namespace Management.Api.Controllers.V2;
 
 [ApiVersion("2.0")]
 [Route("api/v{version:apiVersion}/[controller]")]
@@ -12,11 +9,6 @@ public class PostController : ControllerBase
     [HttpGet("{id:guid}")]
     public IActionResult GetById(Guid id)
     {
-        var post = new Post()
-        {
-            Id = id,
-            Text = "Hello Universe!"
-        };
-        return Ok(post);
+        return Ok();
     }
 }

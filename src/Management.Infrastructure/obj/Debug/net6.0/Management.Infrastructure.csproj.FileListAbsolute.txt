@@ -1,9 +1,7 @@
 D:\START UP PROJECT\ESH-DROP\Management\src\Management.Infrastructure\bin\Debug\net6.0\Management.Infrastructure.deps.json
 D:\START UP PROJECT\ESH-DROP\Management\src\Management.Infrastructure\bin\Debug\net6.0\Management.Infrastructure.dll
 D:\START UP PROJECT\ESH-DROP\Management\src\Management.Infrastructure\bin\Debug\net6.0\Management.Infrastructure.pdb
-D:\START UP PROJECT\ESH-DROP\Management\src\Management.Infrastructure\bin\Debug\net6.0\Management.Application.dll
 D:\START UP PROJECT\ESH-DROP\Management\src\Management.Infrastructure\bin\Debug\net6.0\Management.Domain.dll
-D:\START UP PROJECT\ESH-DROP\Management\src\Management.Infrastructure\bin\Debug\net6.0\Management.Application.pdb
 D:\START UP PROJECT\ESH-DROP\Management\src\Management.Infrastructure\bin\Debug\net6.0\Management.Domain.pdb
 D:\START UP PROJECT\ESH-DROP\Management\src\Management.Infrastructure\obj\Debug\net6.0\Management.Infrastructure.csproj.AssemblyReference.cache
 D:\START UP PROJECT\ESH-DROP\Management\src\Management.Infrastructure\obj\Debug\net6.0\Management.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
@@ -15,3 +13,5 @@ D:\START UP PROJECT\ESH-DROP\Management\src\Management.Infrastructure\obj\Debug\
 D:\START UP PROJECT\ESH-DROP\Management\src\Management.Infrastructure\obj\Debug\net6.0\refint\Management.Infrastructure.dll
 D:\START UP PROJECT\ESH-DROP\Management\src\Management.Infrastructure\obj\Debug\net6.0\Management.Infrastructure.pdb
 D:\START UP PROJECT\ESH-DROP\Management\src\Management.Infrastructure\obj\Debug\net6.0\ref\Management.Infrastructure.dll
+D:\START UP PROJECT\ESH-DROP\Management\src\Management.Infrastructure\bin\Debug\net6.0\Management.Infrastructure.runtimeconfig.json
+D:\START UP PROJECT\ESH-DROP\Management\src\Management.Infrastructure\obj\Debug\net6.0\Management.Infrastructure.genruntimeconfig.cache
